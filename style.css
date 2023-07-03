@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@700;900&family=Cedarville+Cursive&display=swap');
+
+body{
+    font-family: "Catamaran";
+}
+#banner{
+    background-image: url('Images/pexels-photo-276223.webp');
+    min-height: 70vh;
+    background-size: cover;
+}
+.image-text{
+    background-image: url('Images/pexels-photo-590041.jpeg');
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+}
+/* .margins{
+    margin-left: 80px;
+    margin-right: 80px;
+} */
+.text-imge{
+    width: 465px;
+}
+h1{
+    font-size: 60px;
+}
+.sheet{
+    background-image: url('Images/pexels-photo-7658352.webp');
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+
+}
+.charge{
+    background-image: url('Images/pexels-photo-5980871.webp');
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+}
+.association{
+    background-image: url('Images/premium_photo-1679042717081-7e374525b653.avif');
+}
+p{
+    font-size: 20px;
+}
+.main-heading{
+    font-size: 60px;
+    color:#2a3a4c;
+    font-weight: 700;
+    font-style: italic;
+    
+}
+.image1{
+    background-image: url('Images/pexels-photo-2680270.webp');
+    background-size: cover;
+    min-height: 50vh;
+}
+.image2{
+    background-image: url('Images/pexels-photo-1111318.jpeg');
+    background-size: cover;
+    min-height: 50vh;
+}
+h3{
+    font-size: 32px;
+}
+.who{
+    background-image: url('Images/pexels-photo-8353775.webp');
+    min-height: 60vh;
+    background-size: cover;
+}
+
+
